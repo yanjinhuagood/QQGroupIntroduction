@@ -1,10 +1,10 @@
-### 这是一个《WPF开发者 QQ群》的简介  
+### This is an introduction to "WPF Developer QQ Group"  
 
-##### 群号 ：340500857 目前人数已经达到了1449 
+##### Group number: 340500857 The current number has reached 1,449 
 
-##### 描述：此群是针对所有WPF开发者所建立的群组，帮助各位开发者在使用中遇到的问题进行探讨与解决。
+##### Description: This group is a group established for all WPF developers to help developers discuss and solve problems encountered in use.
 
-#####  角色：群组创建者。  
-#####  职责 ：解决大家在群组中遇到的问题，然后通过公众号（WPF开发者）与QQ群进行公布解决的思路与源码。 
+#####  Role: Group creator.   
 
- 
+#####  Responsibilities: Solve the problems that everyone encounters in the group, and then publish the solution ideas and source code through the official account (WPF developer) and the QQ group.
+
